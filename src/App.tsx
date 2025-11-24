@@ -10,7 +10,7 @@ function App() {
     <>
       {/* Text Type with logo */}
       <div className="pt-4 flex justify-center items-center">
-        <img src="src/assets/logo.png" className="size-10" />
+        <img src="/logo.svg" className="size-10" />
         <TextType
           text={[
             "Hai Siswa-Siswi SMK PL Tarcisius!",

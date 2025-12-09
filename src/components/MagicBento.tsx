@@ -164,20 +164,16 @@ const cardData: BentoCardProps[] = [
     label: "XII Gosyen",
     links: [
       {
-        name: "Kelompok AKL 1",
+        name: "Kelompok AKL (1)",
         url: "https://johanesarya.github.io/GOSYEN-xiiakl-kelompok01/",
       },
       {
-        name: "Kelompok AKL 2",
+        name: "Kelompok AKL (2)",
         url: "https://johanesarya.github.io/GOSYEN-xiiakl-kelompok02/",
       },
       {
-        name: "Kelompok MPLB 1",
-        url: "https://johanesarya.github.io/GOSYEN-xiimplb-kelompok01/",
-      },
-      {
-        name: "Kelompok MPLB 2",
-        url: "https://johanesarya.github.io/GOSYEN-xiimplb-kelompok02/",
+        name: "Kelompok MPLB",
+        url: "https://johanesarya.github.io/GOSYEN-xiimplb/",
       },
     ],
   },
